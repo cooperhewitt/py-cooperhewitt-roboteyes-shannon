@@ -1,6 +1,6 @@
 # py-cooperhewitt-roboteyes-shannon
 
-Functions for calculating and deriving properties using Shannon entropy for an image.
+Functions for calculating and deriving properties for an image using Shannon entropy.
 
 ## Usage
 
